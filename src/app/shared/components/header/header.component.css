@@ -1,0 +1,8 @@
+.main-content {
+  background-color: lightblue;
+  display: flex;
+  flex-direction: row;
+}
+.left-side-content {
+  flex-grow: 1;
+}
